@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|solutionrelative:controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\models\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|solutionrelative:models\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\models\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|solutionrelative:models\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\models\\saleprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|solutionrelative:models\\saleprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|solutionrelative:models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\models\\concept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|solutionrelative:models\\concept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\saleproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|solutionrelative:saleproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Response\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "Models\\Response\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:01:55.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\Request\\CustomerRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Request\\CustomerRequest.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\Request\\CustomerRequest.cs",
+              "RelativeToolTip": "Models\\Request\\CustomerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:01:34.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\Sale.cs",
+              "RelativeToolTip": "Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:01:22.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:01:18.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:01:12.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Concept.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\Concept.cs",
+              "RelativeDocumentMoniker": "Models\\Concept.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\Concept.cs",
+              "RelativeToolTip": "Models\\Concept.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:01:08.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Controller\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controller\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Controller\\CustomerController.cs",
+              "RelativeToolTip": "Controller\\CustomerController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowDcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:00:46.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaleProject",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\SaleProject.csproj",
+              "RelativeDocumentMoniker": "SaleProject.csproj",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\SaleProject.csproj",
+              "RelativeToolTip": "SaleProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T19:59:08.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\SaleProjectContext.cs",
+              "RelativeDocumentMoniker": "Models\\SaleProjectContext.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\SaleProjectContext.cs",
+              "RelativeToolTip": "Models\\SaleProjectContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:58:39.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:58:02.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

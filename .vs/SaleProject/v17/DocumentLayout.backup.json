@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\SaleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54EE0F49-4A6E-44CA-A100-C71AC86A7632}|SaleProyect\\SaleProyect.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EE0F49-4A6E-44CA-A100-C71AC86A7632}|SaleProyect\\SaleProyect.csproj|solutionrelative:saleproyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EE0F49-4A6E-44CA-A100-C71AC86A7632}|SaleProyect\\SaleProyect.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproyect\\controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EE0F49-4A6E-44CA-A100-C71AC86A7632}|SaleProyect\\SaleProyect.csproj|solutionrelative:saleproyect\\controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EE0F49-4A6E-44CA-A100-C71AC86A7632}|SaleProyect\\SaleProyect.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproyect\\models\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EE0F49-4A6E-44CA-A100-C71AC86A7632}|SaleProyect\\SaleProyect.csproj|solutionrelative:saleproyect\\models\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EE0F49-4A6E-44CA-A100-C71AC86A7632}|SaleProyect\\SaleProyect.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproyect\\models\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EE0F49-4A6E-44CA-A100-C71AC86A7632}|SaleProyect\\SaleProyect.csproj|solutionrelative:saleproyect\\models\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EE0F49-4A6E-44CA-A100-C71AC86A7632}|SaleProyect\\SaleProyect.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproyect\\models\\saleproyectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EE0F49-4A6E-44CA-A100-C71AC86A7632}|SaleProyect\\SaleProyect.csproj|solutionrelative:saleproyect\\models\\saleproyectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EE0F49-4A6E-44CA-A100-C71AC86A7632}|SaleProyect\\SaleProyect.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproyect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54EE0F49-4A6E-44CA-A100-C71AC86A7632}|SaleProyect\\SaleProyect.csproj|solutionrelative:saleproyect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProyect\\Models\\Request\\CustomerRequest.cs",
+              "RelativeDocumentMoniker": "SaleProyect\\Models\\Request\\CustomerRequest.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProyect\\Models\\Request\\CustomerRequest.cs",
+              "RelativeToolTip": "SaleProyect\\Models\\Request\\CustomerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:13:19.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProyect\\Models\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "SaleProyect\\Models\\Response\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProyect\\Models\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "SaleProyect\\Models\\Response\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:01:11.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProyect\\appsettings.json",
+              "RelativeDocumentMoniker": "SaleProyect\\appsettings.json",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProyect\\appsettings.json",
+              "RelativeToolTip": "SaleProyect\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T17:32:36.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProyect\\Program.cs",
+              "RelativeDocumentMoniker": "SaleProyect\\Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProyect\\Program.cs",
+              "RelativeToolTip": "SaleProyect\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:30:23.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProyect\\Controller\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SaleProyect\\Controller\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProyect\\Controller\\CustomerController.cs",
+              "RelativeToolTip": "SaleProyect\\Controller\\CustomerController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:24:47.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleProyectContext.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProyect\\Models\\SaleProyectContext.cs",
+              "RelativeDocumentMoniker": "SaleProyect\\Models\\SaleProyectContext.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProyect\\Models\\SaleProyectContext.cs",
+              "RelativeToolTip": "SaleProyect\\Models\\SaleProyectContext.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAwBUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:19:58.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
