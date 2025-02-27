@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|solutionrelative:controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\models\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|solutionrelative:models\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2F74174-89A5-6275-6935-387D754E882F}|SaleProject.csproj|c:\\users\\mauro\\desktop\\saleproject\\saleproject\\models\\saleprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\Response\\ApiResponse.cs",
               "RelativeDocumentMoniker": "Models\\Response\\ApiResponse.cs",
@@ -66,12 +66,11 @@
               "RelativeToolTip": "Models\\Response\\ApiResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T20:01:55.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T20:01:55.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CustomerRequest.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Models\\Request\\CustomerRequest.cs",
               "RelativeDocumentMoniker": "Models\\Request\\CustomerRequest.cs",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "Models\\Request\\CustomerRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T20:01:34.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T20:01:34.134Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "Models\\Sale.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T20:01:22.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T20:01:22.789Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T20:01:18.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T20:01:18.782Z"
             },
             {
               "$type": "Document",
@@ -118,8 +114,7 @@
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T20:01:12.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T20:01:12.713Z"
             },
             {
               "$type": "Document",
@@ -131,18 +126,17 @@
               "RelativeToolTip": "Models\\Concept.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T20:01:08.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T20:01:08.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Controller\\CustomerController.cs",
               "RelativeDocumentMoniker": "Controller\\CustomerController.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Controller\\CustomerController.cs",
               "RelativeToolTip": "Controller\\CustomerController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAowDcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwD8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T20:00:46.82Z",
               "EditorCaption": ""
@@ -156,8 +150,7 @@
               "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\SaleProject.csproj",
               "RelativeToolTip": "SaleProject.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-25T19:59:08.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T19:59:08.023Z"
             },
             {
               "$type": "Document",
@@ -169,18 +162,17 @@
               "RelativeToolTip": "Models\\SaleProjectContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:58:39.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T19:58:39.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\SaleProject\\SaleProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T19:58:02.326Z",
               "EditorCaption": ""

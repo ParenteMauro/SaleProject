@@ -150,3 +150,4 @@ C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\refint\SaleProje
 C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\SaleProject.pdb
 C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\SaleProject.genruntimeconfig.cache
 C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\ref\SaleProject.dll
+C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\SaleProject.sourcelink.json
