@@ -143,7 +143,6 @@ C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\staticwebassets\
 C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SaleProject.props
 C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SaleProject.props
 C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\SaleProj.64857529.Up2Date
 C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\SaleProject.dll
 C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\refint\SaleProject.dll
@@ -151,3 +150,5 @@ C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\SaleProject.pdb
 C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\SaleProject.genruntimeconfig.cache
 C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\ref\SaleProject.dll
 C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\SaleProject.sourcelink.json
+C:\Users\mauro\Desktop\SaleProject\SaleProject\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\mauro\Desktop\SaleProject\SaleProject\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

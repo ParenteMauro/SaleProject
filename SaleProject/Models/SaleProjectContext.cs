@@ -23,6 +23,8 @@ public partial class SaleProjectContext : DbContext
 
     public virtual DbSet<Sale> Sales { get; set; }
 
+    public virtual DbSet<User> Users { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
         => optionsBuilder.UseSqlServer("Server=DESKTOP-H9OCTKD\\SQLEXPRESS;Database=SaleProyect;Trusted_Connection=True;TrustServerCertificate=True;");
@@ -108,6 +110,28 @@ public partial class SaleProjectContext : DbContext
                 .HasForeignKey(d => d.IdCustomer)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_customer");
+        });
+        modelBuilder.Entity<User>(entity =>
+        {
+            entity
+                .HasNoKey()
+                .ToTable("user");
+
+            entity.Property(e => e.Email)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .HasColumnName("email");
+            entity.Property(e => e.Id)
+                .ValueGeneratedOnAdd()
+                .HasColumnName("id");
+            entity.Property(e => e.Name)
+                .HasMaxLength(50)
+                .IsUnicode(false)
+                .HasColumnName("name");
+            entity.Property(e => e.Password)
+                .HasMaxLength(256)
+                .IsUnicode(false)
+                .HasColumnName("password");
         });
 
         OnModelCreatingPartial(modelBuilder);
